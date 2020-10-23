@@ -1,7 +1,7 @@
 {
-    "name": "alto",
+    "name": "alto-lhb",
     "description": "A Ghost theme",
-    "version": "1.0.0",
+    "version": "master",
     "engines": {
         "ghost": ">=3.0.0",
         "ghost-api": "v3"
